@@ -1,2 +1,3 @@
-# soil_in_homes
-Environmental microbiota transfer from forest soil into urban homes: a proof-of-principle study
+## Environmental microbiota transfer from forest soil into urban homes: a proof-of-principle study
+
+Urban lifestyles have reduced environmental stimuli that activate immunoregulatory pathways, which has been linked to an increased risk of inflammatory diseases, asthma, and allergies. A potential preventative solution is to modify indoor microbial exposures towards health-promoting interactions. Here, we test the feasibility of environmental microbiota transfers into urban homes and quantify the spatiotemporal impact on the built environment (BE) microbiome. Here, house dust microbiota of six Finnish homes were monitored over a 20-week period by collecting settled dust from infant (IBZs) and adult breathing zones (ABZs) and floor dust from different home locations. Microbiota in dust samples was characterized using qPCR and amplicon sequencing of the bacterial and archaeal 16S rRNA gene and fungal ITS1 region. Microbiota transfers were performed with repeated seeding of forest soil onto rugs placed in the home entryway.
